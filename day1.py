@@ -1,1 +1,5 @@
 print("hello world")
+print(5)
+print("byeee",56,"hello")
+print(17*13)
+print("---  poemm -----")
