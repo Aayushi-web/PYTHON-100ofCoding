@@ -1,0 +1,5 @@
+a=input("1st number :")
+print("My name is  ",(a))
+b=input("2nd number :")
+print("2nd number is",(b))
+print(int(a)+int(b))
