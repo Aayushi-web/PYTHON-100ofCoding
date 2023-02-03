@@ -20,3 +20,11 @@ External Modules - These modules are imported from a third party file or can be 
 2)tuple  ==>list but cannot be modified
 3)map ==> it has key and value pairs
 # All things in python are OBJECTS
+# Typecasting 
+there are 2 types are--
+1)inplicite- 
+python itself change the variable type and solve the problem by own
+2)Explicite---
+Developer have to say that what types of typeCasting they want or suitable for their program
+Methods are---
+a:int(), b:oct(),c:str(),d:hex() etc.
