@@ -28,3 +28,21 @@ python itself change the variable type and solve the problem by own
 Developer have to say that what types of typeCasting they want or suitable for their program
 Methods are---
 a:int(), b:oct(),c:str(),d:hex() etc.
+# Strings
+Strings is a type of array indexing of strings are starts with 0 and ends with (n-1)
+# String slicing
+sen="sjkdlkjd"
+print(sen[0:4])===> 0 include and (n-1)are exclude
+# String Negative Slicing
+print(-1:-5)
+{len(sen)-1: len(sen)-5} ==>python work
+
+# LOOPS in string
+string="happy Birthday"
+for string in sen:
+print(string)
+ 
+ # length of string
+ name="aayushi"
+ len(name)
+# output: "7"
