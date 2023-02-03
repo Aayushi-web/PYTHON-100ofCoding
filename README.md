@@ -48,4 +48,5 @@ print(string)
  len(name)
 # output: "7"
 =======
->>>>>>> 71c6ed08ca7640a94268a7b3df613b4b1d49dc34
+# Taking input for the users
+print(input("hello: ")
