@@ -1,8 +1,8 @@
-#python Module
+# Python Module
 Module is like a code library which can be used to borrow code written by somebody else in our python program. There are two types of modules in python:
 
-Built in Modules - These modules are ready to import and use and ships with the python interpreter. there is no need to install such modules explicitly.
-External Modules - These modules are imported from a third party file or can be installed using a package manager like pip or conda. Since this code is written by someone else, we can install different versions of a same module with time.
+# Built in Modules - These modules are ready to import and use and ships with the python interpreter. there is no need to install such modules explicitly.
+ # External Modules - These modules are imported from a third party file or can be installed using a package manager like pip or conda. Since this code is written by someone else, we can install different versions of a same module with time.
 
 
 # Escape Sequneces and single/multi Line comments:
@@ -10,8 +10,8 @@ External Modules - These modules are imported from a third party file or can be 
                                                                                     \"  \" ==> for double quotation
                                                                                     \'  \' ===> for single line quotations
  
- Comments are those types of methods that are needed to add for further understanding and fellow developers
- # ====> single line cooments
+# Comments are those types of methods that are needed to add for further understanding and fellow developers
+ #====> single line cooments
  '''  ''' =====> multiline comments
  """  """ ======> multilines comments
  
@@ -28,6 +28,7 @@ python itself change the variable type and solve the problem by own
 Developer have to say that what types of typeCasting they want or suitable for their program
 Methods are---
 a:int(), b:oct(),c:str(),d:hex() etc.
+<<<<<<< HEAD
 # Strings
 Strings is a type of array indexing of strings are starts with 0 and ends with (n-1)
 # String slicing
@@ -46,3 +47,5 @@ print(string)
  name="aayushi"
  len(name)
 # output: "7"
+=======
+>>>>>>> 71c6ed08ca7640a94268a7b3df613b4b1d49dc34
