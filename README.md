@@ -50,3 +50,5 @@ print(string)
 =======
 # Taking input for the users
 print(input("hello: ")
+# Strings == 
+strings are immutable in nature we canot change the value but we can modify it every time changed strimng will re created in memory
