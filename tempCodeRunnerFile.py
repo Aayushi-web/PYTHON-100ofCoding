@@ -1,1 +1,3 @@
-print(name.index("hell"))
+for i in range(5) 
+ print(i)
+    
