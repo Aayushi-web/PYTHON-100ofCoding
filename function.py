@@ -17,3 +17,4 @@ cal(a,b)
 isgreater(f,b)
 def islesser():
       pass
+min(a,b)    
