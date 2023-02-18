@@ -4,10 +4,17 @@
 # if 4 in tup:
 #     print("yesss")
 #     #method  in tuple
-countries=("spain","Italy","India","England","Germany")
-temp=list(countries)
-temp.append("Russia")
-temp.pop(3)
-temp[2]="Finland"
-countries=tuple(temp)
-print(countries)
+countries=("spain","Italy","India","spain","England","Germany")
+# temp=list(countries)
+# temp.append("Russia")
+# temp.pop(3)
+# temp[2]="Finland"
+# countries=tuple(temp)
+# print(countries)
+# countries1=("pakisthan","India","china","Austria")
+# countries2=("vietnam","brazil","norway")
+# print(countries1+countries2)
+res=countries.count("spain")
+res=countries.index(1,2,0)
+print(res)
+len(countries)
