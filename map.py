@@ -13,7 +13,11 @@
 
 
 # # reduce
-from functools import reduce
-num=[1,2,3,4,5]
-sum= reduce(lambda x,y: x+y, num)
-print(sum)
+# from functools import reduce
+# num=[1,2,3,4,5]
+# sum= reduce(lambda x,y: x+y, num)
+# print(sum)
+a=4
+b=4
+print(a is b)
+print(a==b)
